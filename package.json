@@ -1,0 +1,40 @@
+{
+  "name": "videojs-contrib-hls.js",
+  "version": "2.0.1",
+  "description": "hls.js plugin for videojs",
+  "main": "/dist/videojs-contrib-hlsjs.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "hls.js": "^0.6.7",
+    "video.js": "^5.11.9",
+    "videojs-contrib-hls": "^3.6.6",
+    "videojs-contrib-media-sources": "^4.0.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peer5/videojs-contrib-hls.js.git"
+  },
+  "keywords": [
+    "hlsjs",
+    "hls.js",
+    "videojs",
+    "video.js",
+    "videojs-contrib-hls.js",
+    "peer5"
+  ],
+  "author": "Peer5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peer5/videojs-contrib-hls.js/issues"
+  },
+  "homepage": "https://github.com/Peer5/videojs-contrib-hls.js#readme"
+}
